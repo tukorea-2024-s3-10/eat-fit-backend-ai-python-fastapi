@@ -1,0 +1,25 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# 운영체제 관련
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# IDE 및 편집기 관련
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.swp
